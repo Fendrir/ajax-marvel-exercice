@@ -1,0 +1,22 @@
+.photo-profil{
+
+height: 100px;
+width: 100px;
+margin:20px 20px 20px 20px;
+padding: 20px 20px 20px 20px;
+
+}
+
+.row [class^="col-"] {
+    
+    
+    background-color: #eee;
+    border: 1px solid #ddd;
+    background-color: rgba(86,61,124,.15);
+    border: 1px solid rgba(86,61,124,.2);
+}
+
+.container {
+    margin: 20px auto 20px auto;
+    padding: 0px 15px 0px 15px;
+    }
