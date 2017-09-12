@@ -46,6 +46,7 @@ $(document).ready(function(){
 					shuffle(data.feed.entry);
 					console.log(data.feed.entry);
 					for(var i = 0; i < 15; i++){  
+						
 	
 // ----------------------------------------- entrées des données ------------------------------------------------ 
 
